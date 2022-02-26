@@ -2,7 +2,7 @@
 
 MERN application to search Google for books. Users are able to sign up, log in, and save books to their profile. Uses MongoDB, ExpressJS, React, Node.js and Apollo.
 
-![Screenshot](./assets/booksearch.jpg)
+![Screenshot](https://github.com/davezer/bookSearchEngine/blob/main/assets/booksearch.jpg?raw=true)
 
 ## Table of Contents
 
